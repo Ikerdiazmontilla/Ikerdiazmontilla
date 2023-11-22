@@ -7,9 +7,6 @@ Hi there! I'm Iker Diaz Montilla, a young, enthusiastic developer from Spain, cu
 - **AI and Entrepreneurship:** I plan to venture into the realm of AI and start a business in Spain, aiming to develop AI solutions that contribute positively to society.
 - **Full-Stack Development:** I'm currently improving my skills in HTML, CSS, and JavaScript and aim to complete The Odin Project soon.
 
-## Projects
-My GitHub repositories showcase a variety of projects, each representing a step forward in my journey as a web developer and a student of programming.
-
 ## Connect with Me
 I welcome collaboration, learning opportunities, and any form of constructive engagement.
 
