@@ -11,4 +11,3 @@ Hi there! I'm Iker Diaz Montilla, a young, enthusiastic developer from Spain, cu
 I welcome collaboration, learning opportunities, and any form of constructive engagement.
 
 - [**GitHub Profile**](https://github.com/Ikerdiazmontilla)
-- **Email:** [ikercorrevuela@gmail.com]
